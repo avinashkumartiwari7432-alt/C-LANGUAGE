@@ -2,7 +2,7 @@
 
 int main(){
 
-    int a =6;
+    int a =6;   // variable declaration and intialization.
 
     float b = 3.4;
 

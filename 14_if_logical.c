@@ -3,7 +3,7 @@
 int main(){
 
     int a = 6;
-    float b = 0;
+    float b = 0.0;
 
     if(a&&b){                         
         printf("both are true\n");  
